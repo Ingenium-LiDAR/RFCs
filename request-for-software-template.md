@@ -73,3 +73,10 @@ It should output errors, if any, to a file in the same directory called
  On Termux, when the user opens the app, they should SSH into the RPi immediately.
 
 On Ubuntu, this behaviour should not happen. (The dev may need to write a cron job or similar for Termux specifically. If the dev does so, there should be included a script which can be run once to set up the cron job)
+
+## Signed
+
+This Request for Software was put out by A. Baker, assistant software architect. Email him with any questions.
+
+Drafted 2026-03-30 9:45 PM
+Revised 2026-03-30 10:13 PM

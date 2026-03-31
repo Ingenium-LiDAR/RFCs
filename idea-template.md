@@ -30,6 +30,7 @@ The shadecloth is unique among the data in that it is a very thin layer of point
 
 ## Edits
 
+This idea was drafted by A. Baker on 2026-03-30
 This idea outline was edited by J. Smith on 2026-1-22
 
 ## Approval
